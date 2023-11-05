@@ -1,2 +1,2 @@
-# Hadoop
-Use Java to link Hadoop file and computation system
+# Distributed Computation - Spark & Hadoop
+
